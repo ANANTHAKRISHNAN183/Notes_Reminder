@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Notes_reminder</string>
+    <string-array name="Set_Date">
+        <item>Today</item>
+        <item>Tomorrow</item>
+        <item>Set date...</item>
+    </string-array>
+    <string-array name="Set_Time">
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+        <item>Set time</item>
+    </string-array>
+
+    <string-array name="Set_Font">
+        <item>Normal</item>
+        <item>Monospace</item>
+        <item>Italica</item>
+        <item>Bold</item>
+        <item>Bold_italic</item>
+    </string-array>
+    <string-array name="Set_Color">
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Orange</item>
+        <item>Red</item>
+        <item>White</item>
+        <item>Yellow</item>
+    </string-array>
+
+    <string name="title_activity_login">Sign in</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

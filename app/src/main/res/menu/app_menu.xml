@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/about_app"
+        android:title="About App"
+        android:visible="true" />
+    <item
+        android:id="@+id/help_feedback"
+        android:title="Help and feedback"
+        android:visible="true" />
+</menu>

@@ -1,0 +1,1 @@
+This app consists of notes module where you can create and make notes and the other one is a reminder module where you can create reminders. 
